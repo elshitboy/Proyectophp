@@ -1,0 +1,10 @@
+{
+    "name": "carlitos/proyectophp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Carlitos\\Proyectophp\\": "src/"
+        }
+    },
+    "require": {}
+}
